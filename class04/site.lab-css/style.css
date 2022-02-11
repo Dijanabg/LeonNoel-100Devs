@@ -1,0 +1,58 @@
+body{
+    color: white;
+    font-size: larger;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: Roboto, sans-serif;
+}
+.background{
+    background: #87ceeb;
+    padding-bottom: 35px;
+    padding-top: 35px;
+}
+.container{
+    background-color: #87ceeb;
+    border: 5px solid rgb(16, 223, 16);
+    width: 90%;
+    margin-left: 35px;
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-weight: 300;
+    font-size: 2em;
+    font-style: italic;
+}
+.topNav{
+    text-align: center;
+}
+h2{
+    padding-left: 35px;
+    font-size: 1.5em;
+}
+a{
+    color: #119460;
+    font-weight: bolder;
+}
+img{
+    padding-left: 10px;
+    padding-right: 30px;
+    width: 30%;
+    float: right;
+}
+.vertBar{
+    color: black;
+    font-weight: bolder;
+}
+p{
+    color: white;
+    font-size: 0.9em;
+    font-weight: 300;
+    margin: 5%;
+}
+footer{
+    padding-bottom: 5px;
+    text-align: center;
+    font-weight: 500;
+}
