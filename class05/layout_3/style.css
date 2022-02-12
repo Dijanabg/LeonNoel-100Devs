@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+header,footer{
+    height: 100px;
+    border: 2px solid rgb(41, 40, 40);
+    clear: both;
+}
+.a{
+    border: 2px solid rgb(41, 40, 40);
+    height: 500px;
+    width: 20%;
+    float: left;
+}
+.b{
+    border: 2px solid rgb(41, 40, 40);
+    height: 500px;
+    width: 40%;
+    float: left;
+}
